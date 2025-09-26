@@ -1,11 +1,11 @@
 # Logistic-Regression-Classifier(Breast_Cancer_Dataset)
 ##Project Overview
+
 This project builds a binary classifier using Logistic Regression on the Breast Cancer Wisconsin dataset (from scikit-learn).
 The objective is to:
-
-   -Train a logistic regression model
-   -Evaluate performance using standard metrics
-   -Understand concepts like ROC-AUC, threshold tuning, and the sigmoid function
+    -Train a logistic regression model
+    -Evaluate performance using standard metrics
+    -Understand concepts like ROC-AUC, threshold tuning, and the sigmoid function
 
 ## Tools & Libraries
 -Python 3
