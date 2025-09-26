@@ -9,8 +9,11 @@ The objective is to:
 
 ## Tools & Libraries
 -Python 3
+
 -Pandas → data handling
+
 -Matplotlib → plotting
+
 -Scikit-learn → ML model & metrics
 
 ## Dataset
@@ -18,6 +21,7 @@ Dataset: Breast Cancer Wisconsin Diagnostic Dataset (built-in with scikit-learn)
 
 Classes: 0 → Malignant (cancer)
          1 → Benign (no cancer)
+         
 Features: 30 numeric attributes describing tumor characteristics.
 
 ## Steps Performed
