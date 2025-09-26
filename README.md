@@ -37,7 +37,7 @@ Features: 30 numeric attributes describing tumor characteristics.
 - ROC Curve → to evaluate classifier performance
 - Sigmoid Function → to explain probability mapping
 
-##Concepts
+## Concepts
 1. ROC–AUC Curve → Model performance across all thresholds
 2. Threshold Tuning → Adjusting cutoff probability (default = 0.5) to balance precision & recall
 3. Sigmoid Function → Converts linear model output into probabilities between 0 and 1
